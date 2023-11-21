@@ -1,0 +1,8 @@
+spring.datasource.url =
+spring.datasource.username =
+spring.datasource.password =
+CLIENT_ID_OAUTH=
+CLIENT_SECRET_OAUTH=
+server.port=
+
+spring.jpa.hibernate.ddl-auto=update
